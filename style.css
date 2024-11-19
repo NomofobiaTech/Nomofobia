@@ -350,7 +350,7 @@ h6,
 .service-item:hover {
     margin-top: -15px;
     padding-bottom: 60px;
-    background: var(--primary);
+    background-color: #252328;
 }
 
 .service-item .service-icon {
@@ -360,15 +360,15 @@ h6,
     display: flex;
     align-items: center;
     justify-content: center;
-    color: var(--light);
-    background: url(../img/blob-primary.png) center center no-repeat;
+    color: #04000B;
+    background-color: #04000B;
     background-size: contain;
     transition: .5s;
 }
 
 .service-item:hover .service-icon {
-    color: var(--dark);
-    background: url(../img/blob-secondary.png) center center no-repeat;
+    color: #04000B;
+    background-color: #63246e;
     background-size: contain;
 }
 
