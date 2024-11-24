@@ -342,7 +342,7 @@ h6,
 .service-item {
     position: relative;
     padding: 45px 30px;
-    background: var(--light);
+    background: var(--dark);
     overflow: hidden;
     transition: .5s;
 }
